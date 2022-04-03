@@ -91,3 +91,23 @@ nav ul li a:hover{
     border: #fff solid 1px;
     padding: 10px;
 }
+
+.home-container{
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.image-container{
+    position: relative;
+    width: 50%;
+}
+
+.container-image{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.container-text{
+
+}
