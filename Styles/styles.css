@@ -100,14 +100,12 @@ nav ul li a:hover{
 }
 
 .container-heading{
-    text-align: center;
     color: rgb(61, 61, 61);
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 
 .container-para{
-    text-align: justify;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     color: hsl(243, 49%, 15%);
