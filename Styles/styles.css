@@ -100,28 +100,28 @@ nav ul li a:hover{
 }
 
 .container-heading{
-    color: rgb(61, 61, 61);
+    color: hsl(240, 1%, 40%);
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
+    font-size: 40px;
 }
 
 .container-para{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    color: hsl(243, 49%, 15%);
+    color: hsl(240, 1%, 40%);
     padding: 10px;
     line-height: 300%;
 }
 
 .container-btn{
     font-family: Arial, Helvetica, sans-serif;
-    color:white;
+    color:#D4AF37;
     text-align: center;
-    background-color: hsl(243, 49%, 15%);
+    background-color: hsl(240, 1%, 40%);
     padding: 10px;
     text-transform: uppercase;
     text-decoration: none;
-    margin-left: 10px;
     margin-bottom: 10px;
 }
 
@@ -129,4 +129,15 @@ nav ul li a:hover{
     font-size: 50px;
     font-family:cursive;
     line-height: 80%;
+    color: hsl(240, 1%, 40%);
+}
+
+.title-hr{
+    width: 20%;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border: none;
+    background-color: #D4AF37;
 }
