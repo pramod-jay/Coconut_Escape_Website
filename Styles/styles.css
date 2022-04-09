@@ -145,5 +145,10 @@ nav ul li a:hover{
 .footer{
     width: 100%;
     background-color: black;
-    margin-bottom: 0px;
+    float: left;
+}
+
+dl dt{
+    color: white;
+    line-height: 20px;
 }
