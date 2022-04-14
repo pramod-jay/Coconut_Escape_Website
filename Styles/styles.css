@@ -217,3 +217,83 @@ dl dt{
     border: #0d1d56 solid 2px;
     color:#0d1d56;
 }
+
+.gallery-img{
+    width: 100%;
+    float: left;
+    transition: transform .2s;
+    border: #fff solid 2px;
+}
+
+.gallery-img:hover{
+    transform: scale(1.5);
+}
+
+.contact-img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.contact-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.contact-input{
+    border: #fff solid 1px;
+    border-radius: 10px;
+    height: 30px;
+    width: 90%;
+    background: transparent;
+    color: #fff;
+    outline: none;
+    font-size: 16px;
+}
+
+.contact-btn{
+    background-color: #fff;
+    border: #fff solid 1px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    mix-blend-mode: screen;
+    cursor: pointer;
+    margin: 20px;
+    height: 30px;
+}
+
+.construct-txt{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
+
+.construct-para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.construct-a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    mix-blend-mode: screen;
+    background-color: #fff;
+    border: #fff solid 1px;
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
